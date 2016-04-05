@@ -1,0 +1,14 @@
+# Blender MTL File: 'HayHouse_blend.blend'
+# Material Count: 1
+newmtl House_House_Texture.png
+Ns 233.333333
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\Adam\Desktop\Sellable Models\69. HayHouse\HayHouse_blend\HayHouse_Texture.png
+map_d C:\\Users\\Adam\\Desktop\\Sellable Models\\69. HayHouse\\HayHouse_blend\\HayHouse_Texture.png
+
+
